@@ -2,9 +2,6 @@
 This repo contains a simple instance launched with terraform using backend in GCS.
 
 
-# terraform-gcp-backend-simple-example
-This repo contains a simple instance launched with terraform using backend in GCS.
-
 # 1 Create a Bucket
 
 * Create file terraform.tfvars
